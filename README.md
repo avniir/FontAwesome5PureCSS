@@ -4,7 +4,7 @@ A solution to include a local version of Font Awesome 5, to increase loading spe
 
 
 ## What's the idea behind this project?
-Do more, install less. This project gives you the strict minimum that you need to start using 1588 icons from Font Awesome 5.
+Do more, install less. This project gives you the strict minimum that you need to start using the 1588 icons of Font Awesome 5.
 
 
 
