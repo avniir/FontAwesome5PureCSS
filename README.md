@@ -8,7 +8,7 @@ Do more, install less. This project gives you the strict minimum that you need t
 
 
 
-## How to install & use this local CSS repository in your project?
+## How to install & use this local repository in your project?
 
 1) Copy the entire 'fa' folder into your project directory
 
