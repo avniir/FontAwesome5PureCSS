@@ -14,9 +14,13 @@ Do more, install less. This project gives you the strict minimum that you need t
 
 1) Copy the entire 'fa' folder into your project directory
 
-2) Link your web files to the 'fa' folder using the link rel tag in your <header>: <link rel="stylesheet" href="fa/all.min.css">
+2) Link your web files to the 'fa' folder using the link rel tag in your ```<header>```:
 
-3) Finally, include the Font Awesome 5 icons as you want! Ex: <span class="fas fa-search">Search</span>
+  ```<link rel="stylesheet" href="fa/all.min.css">```
+
+3) Finally, include the Font Awesome 5 icons as you want!
+
+Exemple: ```<span class="fas fa-search">Search</span>```
 
 
 
