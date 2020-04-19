@@ -9,7 +9,7 @@
 &nbsp;
 
 ## What's the idea behind this project?
-**Do more, install less.** This project gives you the strict minimum that you need to start using the 1588 icons of Font Awesome 5.
+**Do more, install less.** This project gives you the strict minimum that you need to quickly start using the 1588 icons of Font Awesome 5.
 
 &nbsp;
 &nbsp;
