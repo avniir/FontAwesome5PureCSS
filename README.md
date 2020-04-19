@@ -2,7 +2,7 @@
 
 
 # Font Awesome 5 Pure CSS
-A solution to include a local version of Font Awesome 5, to increase loading speed and allow you to work localy without an Internet connection.
+>**A solution to include a local version of Font Awesome 5, to increase loading speed and allow you to work localy without an Internet connection.**
 
 
 
