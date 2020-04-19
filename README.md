@@ -2,14 +2,14 @@
 
 
 # Font Awesome 5 Pure CSS
->**A solution to include a local version of Font Awesome 5, to increase loading speed and allow you to work localy without an Internet connection.**
+**A solution to include a local version of Font Awesome 5, to increase loading speed and allow you to work localy without an Internet connection.**
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## What's the idea behind this project?
-Do more, install less. This project gives you the strict minimum that you need to start using the 1588 icons of Font Awesome 5.
+**Do more, install less.** This project gives you the strict minimum that you need to start using the 1588 icons of Font Awesome 5.
 
 &nbsp;
 &nbsp;
