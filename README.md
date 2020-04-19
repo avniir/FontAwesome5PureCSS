@@ -23,12 +23,13 @@ Woff font format is supported by every modern browser: https://caniuse.com/#sear
   ```<link rel="stylesheet" href="fa/all.min.css">```
   
 
-3) Finally, include the Font Awesome 5 icons as you want!
+3) And voilà! Use it as you want!
 
 Exemple: ```<span class="fas fa-search">Search</span>```
 
 
 
 
-## Font Awesome 5 important note
+## Font Awesome 5 notes
 The 'fa' prefix has been deprecated in version 5. The new default is the 'fas' (solid) style and the 'fab' style for brands.
+Find all the available icons here: https://fontawesome.com/icons?d=gallery&m=free
