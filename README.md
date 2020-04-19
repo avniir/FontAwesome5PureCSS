@@ -9,7 +9,7 @@ Do more, install less. This project gives you the strict minimum that you need t
 
 
 ## Why is there only .woff font files?
-Woff font format works for every modern browser: https://caniuse.com/#search=woff, and Font Awesome works fine with only these files.
+Woff font format is supported by every modern browser: https://caniuse.com/#search=woff, and Font Awesome works fine with only these files.
 
 
 
