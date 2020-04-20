@@ -27,7 +27,7 @@ Woff font format is supported by every modern browser: https://caniuse.com/#sear
 1) Copy the entire 'fa' folder into your project directory
 
 
-2) Link your web files to the 'fa' folder using the link rel tag in your ```<header>```:
+2) Link your web files to the 'fa' folder using the link rel tag in your ```<head>```:
 
   ```<link rel="stylesheet" href="fa/all.min.css">```
   
