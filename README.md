@@ -27,12 +27,10 @@ Woff font format is supported by every modern browser: https://caniuse.com/#sear
 1) Copy the entire 'fa' folder into your project directory
 
 
-2) Link your web files to the 'fa' folder using the link rel tag in your ```<head>```:
-
-  ```<link rel="stylesheet" href="fa/all.min.css">```
+2) Link it inside your ```<head>``` by adding this: ```<link rel="stylesheet" href="fa/all.min.css">```
   
 
-3) And voilà! Use it as you want!
+3) And voilà! You are ready to go!
 
 Exemple: ```<span class="fas fa-search">Search</span>```
 
