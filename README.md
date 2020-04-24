@@ -22,7 +22,7 @@ Woff font format is supported by every modern browser: https://caniuse.com/#sear
 &nbsp;
 &nbsp;
 
-## How to install & use this local repository in your project?
+## How to install & use this local solution?
 
 1) Copy the entire 'fa' folder into your project directory
 
