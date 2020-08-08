@@ -1,7 +1,7 @@
 ![Image description](https://i.ibb.co/SrCpFGP/readme-header.jpg)
 
 
-# Font Awesome 5 Pure CSS
+# Font Awesome 5 Pro Pure CSS
 **A local solution to include Font Awesome 5 on your website: increase loading speed & work without an Internet connection.**
 
 &nbsp;
@@ -41,4 +41,4 @@ Exemple: ```<span class="fas fa-search">Search</span>```
 ## Font Awesome 5 notes
 The 'fa' prefix has been deprecated in version 5. The new default is the 'fas' (solid) style and the 'fab' style for brands.
 
-Find all the available icons here: https://fontawesome.com/icons?d=gallery&m=free
+Find all the available icons here: https://fontawesome.com/icons?d=gallery
